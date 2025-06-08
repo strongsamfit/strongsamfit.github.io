@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "How to Eat Healthier: The 4 Pillars That Changed My Approach to Food"
+title: "The Four Pillars That Changed My Approach to Food"
 menu_title: Four Pillars
 date: 2025-05-26 15:47:40 -0700
 categories: diet
 excerpt: Discover the four simple eating habits that transformed my health—shared through real stories, practical tips, and no perfection required.
-seo_title: "How to Eat Healthier: The 4 Pillars That Changed My Approach to Food"
+seo_title: "The Four Pillars That Changed My Approach to Food"
 seo_description: This article shares the four core pillars I follow to eat healthier—without counting calories or following strict diets. From cutting back on alcohol and sugar to eating carbs with intention and exploring intermittent fasting, these rules came to life through trial, error, and real-life stories. Whether you're looking to make a change or just get inspired, these practical, down-to-earth tips are a great place to start.
 ---
 
