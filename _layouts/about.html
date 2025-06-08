@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+
+  <div class="post-content">
+    {% assign image_files = site.static_files | where: "image", true %}
+    {% for myimage in image_files %}
+      {% if myimage.path contains 'assets/images/about' %}
+        <img src="{{ myimage.path }}" alt="">
+        <br><br>
+      {% endif %}
+    {% endfor %}
+
+    {{ content }}
+  </div>
+
+</article>
